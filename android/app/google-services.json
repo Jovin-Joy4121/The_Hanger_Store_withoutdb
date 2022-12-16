@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161869621326",
+    "project_id": "the-hanger-store-test",
+    "storage_bucket": "the-hanger-store-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161869621326:android:377e97b7f320a0279b3b1f",
+        "android_client_info": {
+          "package_name": "com.jovinjoy.hangerstore.test.hangerstore_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161869621326-ldf0n1akjj4ra93kulfmm7hv1mvnju2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARfjM_WzduszSGeI-J99u1G_yorO8Xpgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161869621326-ldf0n1akjj4ra93kulfmm7hv1mvnju2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
